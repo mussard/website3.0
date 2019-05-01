@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.44" />
+  <meta name="author" content="Bastien Mussard">
+  <meta name="description" content="Research Assistant">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/github.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
+  <link rel="stylesheet" href="/mussard/website3.0/master/css/hugo-academic.css">
+  
+
+  
+
+  <link rel="alternate" href="/mussard/website3.0/master/index.xml" type="application/rss+xml" title="Bastien Mussard">
+  <link rel="feed" href="/mussard/website3.0/master/index.xml" type="application/rss+xml" title="Bastien Mussard">
+
+  <link rel="icon" type="image/png" href="/mussard/website3.0/master/img/favicon-chevron-right.ico">
+  <link rel="apple-touch-icon" type="image/png" href="/mussard/website3.0/master/img/favicon-chevron-right.ico">
+
+
+  
+
+  <title>Time-dependent linear-response variational Monte Carlo. | Bastien Mussard</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+
+<!-- ================================================================================== -->
+<div style="width:100%;height:50px;background:red;color:white">
+  <center>
+    This is an old version of my site.
+    <br>
+    The site has moved to <a hreflang="en" style="color:white" href="http://mussard.github.io/">http://mussard.github.io/</a>
+  </center>
+</div>
+<!-- ================================================================================== -->
+
+
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <div id="big_screen">
+      <a class="navbar-brand" href="/mussard/website3.0/master/index.html">
+        <img style="height:1.7em" src="/mussard/website3.0/master/img/logo_bastienmussard.png" alt="">
+      </a>
+      </div>
+      <div id="small_screen">
+      <a class="navbar-brand" href="/mussard/website3.0/master/index.html">
+        <img style="height:1.7em" src="/mussard/website3.0/master/img/logo_bmussard.png" alt="">
+      </a>
+      </div>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/mussard/website3.0/master/index.html"><!-- #projects-->
+            
+            <span>Research</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/mussard/website3.0/master/index.html"><!-- #softwares-->
+            
+            <span>Softwares</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/mussard/website3.0/master/index.html"><!-- #publications-->
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/mussard/website3.0/master/index.html"><!-- #talks-->
+            
+            <span>Talks &amp; Misc</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/mussard/website3.0/master/index.html"><!-- #cv_aboutme-->
+            
+            <span>About Me</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1>Time-dependent linear-response variational Monte Carlo.</h1>
+      <span class="pub-authors" itemprop="author">
+        
+      </span>
+      <span class="pull-right">
+        
+
+      </span>
+    </div>
+
+    
+    <div style="margin-bottom:10px;width:100%;">
+    <iframe style="width:100%;height:600px" frameborder="0"
+        src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/mussard/website3.0/master/doc/talk_20170721.pdf&embedded=true"
+    ></iframe>
+    <!--<object
+        data="https://docs.google.com/gview?url=https://raw.githubusercontent.com/mussard/website3.0/master/doc/talk_20170721.pdf&embedded=true"
+        type="application/pdf"
+        width="100%"
+        height="500px">
+         <param name="view"      value="FitV">
+         <param name="zoom"      value="scale">
+         <param name="pagemode"  value="none">
+         <param name="toolbar"   value=0>
+         <param name="statusbar" value=0>
+         <param name="navpanes"  value=0>
+    </object>-->
+    </div>
+    
+
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            2017-07-21
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            Stochastic Methods in Electronic Structure Theory
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
+          <div class="col-xs-12 col-sm-9">Telluride, Colorado, 2017</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+
+
+
+
+<a target="_blank" class="btn btn-primary btn-outline" href="https://www.telluridescience.org/meetings/workshop-details?wid=628">
+  link
+</a>
+
+<a target="_blank" class="btn btn-primary btn-outline" href="/mussard/website3.0/master/doc/talk_20170721.pdf">
+  pdf
+</a>
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+  </div>
+</div>
+
+<div class="container">
+  <nav>
+  <p></p>
+  <br>
+  <p></p>
+  <ul class="pager">
+    
+    <li class="previous">
+    <a href="/mussard/website3.0/master/talk/talk_20170704/index.html">
+        <i class="fa fa-chevron-left"></i>
+        
+        Multireference Perturbation Theory using extended active space wavefunctions.
+        
+    </a>
+    </li>
+    
+
+    
+    <li class="next">
+    <a href="/mussard/website3.0/master/talk/talk_201710/index.html">
+        
+        Cheap and near exact calculations with large active spaces.
+        
+        <i class="fa fa-chevron-right"></i>
+    </a>
+    </li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<footer class="site-footer">
+    
+</footer>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.2/imagesloaded.pkgd.min.js" integrity="sha512-iHzEu7GbSc705hE2skyH6/AlTpOfBmkx7nUqTLGzPYR+C1tRaItbRlJ7hT/D3YQ9SV0fqLKzp4XY9wKulTBGTw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js" integrity="sha512-Z5heTz36xTemt1TbtbfXtTq5lMfYnOkXM2/eWcTTiLU01+Sw4ku1i7vScDc8fWhrP2abz9GQzgKH5NGBLoYlAw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/plugins/ScrollToPlugin.min.js" integrity="sha512-CDeU7pRtkPX6XJtF/gcFWlEwyaX7mcAp5sO3VIu/ylsdR74wEw4wmBpD5yYTrmMAiAboi9thyBUr1vXRPA7t0Q==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    <script src="/mussard/website3.0/master/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    
+    
+
+  </body>
+</html>
+

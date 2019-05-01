@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aways on Bastien Mussard</title>
+    <link>https://mussard.github.io/away/</link>
+    <description>Recent content in Aways on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/away/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://mussard.github.io/away/about/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/away/about/</guid>
+      <description>&lt;p&gt;
+My research consists in developments in electronic structure of molecular and solid systems.
+There are two fundamental aspects to my work.
+On the one hand, my approach is analytic and theoretical and consists in developing new methods and approximations.
+On the other hand, an integral part of my work is technical and is about implementing these developments in widely used quantum chemistry packages.
+&lt;/p&gt;
+
+&lt;p&gt;
+My work has branched into three main parts:
+&lt;ul style=&#34;margin-bottom:10px;text-align:justify&#34;&gt;
+&lt;li style=&#34;margin-bottom:10px&#34;&gt;
+I have been focused in the description of &lt;b&gt;London dispersion forces&lt;/b&gt;
+in Density Functional Theory (&lt;b&gt;DFT&lt;/b&gt;)
+in the context of &lt;b&gt;range-separated theories&lt;/b&gt;
+coupled with the Random Phase Approximation (&lt;b&gt;RPA&lt;/b&gt;).
+&lt;/li&gt;
+&lt;li style=&#34;margin-bottom:10px&#34;&gt;
+I have more recently been working in Quantum Monte-Carlo (&lt;b&gt;QMC&lt;/b&gt;) and implementing in the CHAMP software.
+&lt;/li&gt;
+&lt;li style=&#34;margin-bottom:10px&#34;&gt;
+I currently am working on implementations of efficient &lt;b&gt;multi-reference calculations&lt;/b&gt;
+most notably using &lt;b&gt;semistochastic heat-bath configuration interaction (SHCI)&lt;/b&gt;
+and &lt;b&gt;multi-reference perturbation theory (MRPT)&lt;/b&gt;
+for applications to systems of interest in biological processes and energy conversion and storage.
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://mussard.github.io/away/cv/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/away/cv/</guid>
+      <description>&lt;div class=&#34;col-xs-0 col-md-2&#34;&gt;&lt;/div&gt;
+&lt;div style=&#34;padding:20px;border-radius:10px;background-color:inherit;display:flex;flex-direction:column;margin-top:20px&#34; class=&#34;card col-xs-12 col-md-8&#34;&gt;
+   &lt;div style=&#34;align-self:center;text-align:center&#34;&gt;
+   &lt;span style=&#34;font-size:130%;white-space:nowrap&#34;&gt;
+   CV in english:&amp;nbsp;
+   &lt;a href=&#34;doc/cv_mussard_eng.pdf&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34; vertical-align:middle;&#34;&gt;&lt;i class=&#34;fa fa-file-text-o fa-2x&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/a&gt;
+   &lt;p&gt;&lt;/p&gt;
+   CV en français:&amp;nbsp;
+   &lt;a href=&#34;doc/cv_mussard_fr.pdf&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34; vertical-align:middle;&#34;&gt;&lt;i class=&#34;fa fa-file-text-o fa-2x&#34;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/a&gt;
+   &lt;/span&gt;
+   &lt;p&gt;&lt;/p&gt;
+   &lt;span style=&#34;font-size:130%;white-space:nowrap&#34;&gt;
+   (Last modified 2017.10.30)
+   &lt;/span&gt;
+   &lt;/div&gt;
+   
+
+&lt;p&gt;&lt;p style=&#34;margin-top:20px&#34;&gt;
+   The CVs are composed of the recall of my background that can be found below,
+   as well as a list of publications and main oral communications,
+   and a short description of my main research interests.
+   &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;col-xs-0 col-md-2&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;col-xs-12 col-md-12&#34;&gt;
+
+&lt;div style=&#34;display:flex;flex:1;margin-top:40px&#34;&gt;
+  &lt;div style=&#34;min-width:80px;width:80px;height:60px&#34;&gt;
+    &lt;br&gt;
+    &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.colorado.edu/&#34;&gt;
+    &lt;img style=&#34;height:60px&#34; src=&#34;img/logoUCB.png&#34; alt=&#34;UCB&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-left:10px&#34;&gt;
+    &lt;h2&gt;Post-doctoral Research Assistant&lt;/h2&gt;
+    in &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.colorado.edu/lab/sharmagroup/&#34;&gt;Sandeep Sharma&lt;/a&gt;&#39;s group
+    &lt;br&gt;Department of Chemistry and Biochemistry
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.colorado.edu/chembio/&#34;&gt;link&lt;/a&gt;
+    &lt;br&gt;University of Colorado at Boulder
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.colorado.edu/&#34;&gt;link&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display:flex;flex:1;margin-top:30px&#34;&gt;
+  &lt;div style=&#34;min-width:80px;width:80px;height:60px&#34;&gt;
+    &lt;br&gt;
+    &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.cornell.edu/&#34;&gt;
+    &lt;img style=&#34;height:60px&#34; src=&#34;img/logoCU_transparent.png&#34; alt=&#34;CU&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-left:10px&#34;&gt;
+    &lt;h2&gt;Collaboration and Visit&lt;/h2&gt;
+    with &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://cyrus.lassp.cornell.edu&#34;&gt;Cyrus Umrigar&lt;/a&gt;
+    &lt;br&gt;Laboratory of Atomic and Solid State Physics
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.lassp.cornell.edu/&#34;&gt;link&lt;/a&gt;
+    &lt;br&gt;Cornell University
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.cornell.edu/&#34;&gt;link&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display:flex;flex:1;margin-top:30px&#34;&gt;
+  &lt;div style=&#34;min-width:80px;width:80px;height:60px&#34;&gt;
+    &lt;br&gt;
+    &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.upmc.fr/en/index.html&#34;&gt;
+    &lt;img style=&#34;height:60px&#34; src=&#34;img/logoSORBONNE_noname.png&#34; alt=&#34;SORBONNE&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-left:10px&#34;&gt;
+    &lt;h2&gt;Post-doctoral Research Assistant (Research Engineer)&lt;/h2&gt;
+    with &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.lct.jussieu.fr/pagesperso/toulouse&#34;&gt;Julien Toulouse&lt;/a&gt;
+    &lt;br&gt;Institut des Sciences du Calcul et des Données
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://iscd.upmc.fr/&#34;&gt;link&lt;/a&gt;
+    &lt;br&gt;Laboratoire de Chimie Théorique
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.lct.jussieu.fr/accueil.html?lang=en&#34;&gt;link&lt;/a&gt;
+    &lt;br&gt;Université Pierre et Marie Curie
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.upmc.fr/en/index.html&#34;&gt;link&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display:flex;flex:1;margin-top:30px&#34;&gt;
+  &lt;div style=&#34;min-width:80px;width:80px;height:60px&#34;&gt;
+    &lt;br&gt;
+    &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://welcome.univ-lorraine.fr/en&#34;&gt;
+    &lt;img style=&#34;height:60px&#34; src=&#34;img/logoUL_noname.png&#34; alt=&#34;UL&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-left:10px&#34;&gt;
+    &lt;h2&gt;PhD&lt;/h2&gt;
+    Advisor: &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://crm2.univ-lorraine.fr/pages_perso/Angyan&#34;&gt;János Ángyán&lt;/a&gt;
+    &lt;br&gt;Crystallography, Nuclear Magnetic Resonance and Modelling
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://crm2.univ-lorraine.fr/lab/en/&#34;&gt;link&lt;/a&gt;
+    &lt;br&gt;Université de Lorraine
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://welcome.univ-lorraine.fr/en&#34;&gt;link&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex;flex:1;margin-top:30px&#34;&gt;
+  &lt;div style=&#34;min-width:80px;width:80px;height:60px&#34;&gt;
+    &lt;br&gt;
+    &lt;a target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.ens.fr/?lang=en&#34;&gt;
+    &lt;img style=&#34;height:70px&#34; src=&#34;img/logoENS.png&#34; alt=&#34;ENS&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-left:10px&#34;&gt;
+    &lt;h2&gt;Master of Analytical, Physical and Theoretical Chemistry&lt;/h2&gt;
+    École Normale Supérieure
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.chimie.ens.fr/?q=en&#34;&gt;link&lt;/a&gt;
+    &lt;br&gt;Université Pierre et Marie Curie
+    &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; target=&#34;_blank&#34; hreflang=&#34;en&#34; href=&#34;http://www.upmc.fr/en/index.html&#34;&gt;link&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mussard.github.io/away/contact/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/away/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

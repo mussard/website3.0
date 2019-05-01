@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Note on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/note/</link>
+    <description>Recent content in Note on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/note/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes on Quantum Monte Carlo.</title>
+      <link>/norikcentaure/holder/master/talk/notes_qmc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/notes_qmc/</guid>
+      <description>pdf = &amp;ldquo;doc/notes_qmc.pdf&amp;rdquo; [[url_custom]] name = &amp;ldquo;pdf&amp;rdquo; url = &amp;ldquo;doc/notes_qmc.pdf&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Notes on Group Theory.</title>
+      <link>/norikcentaure/holder/master/talk/notes_grouptheory/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/notes_grouptheory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on Fractional Occupation Numbers.</title>
+      <link>/norikcentaure/holder/master/talk/notes_frac/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/notes_frac/</guid>
+      <description>pdf = &amp;ldquo;doc/notes_frac.pdf&amp;rdquo; [[url_custom]] name = &amp;ldquo;pdf&amp;rdquo; url = &amp;ldquo;doc/notes_frac.pdf&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Implémentation et test de fonctions d&#39;onde Valence Bond pour les calculs Monte Carlo Quantique.</title>
+      <link>/norikcentaure/holder/master/talk/thesis_m2/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/thesis_m2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

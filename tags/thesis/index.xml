@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/thesis/</link>
+    <description>Recent content in Thesis on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Tue, 10 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thesis</title>
+      <link>/norikcentaure/holder/master/talk/thesis_phd/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/thesis_phd/</guid>
+      <description>Modelisation of London dispersion forces by Random Phase Approximation : methodological developments.  (Modélisations quantochimiques des forces de dispersion de London par la méthode des phases aléatoires : développements méthodologiques.) 
+ Original manuscript lien   Reviewed manuscript pdf hal arxiv (Last modified: 17 Nov. 2015)   Defence (2013.12.13) pdf   Thesis committee  Benoit Champagne (Université de Namur, Namur), reviewer Andreas Savin (Université Pierre et Marie Curie, Paris), reviewer Xavier Assfeld (Université de Lorraine, Nancy) Georg Jansen (Universität Duisburg-Essen, Essen) Peter Reinhardt (Université Pierre et Marie Curie, Paris) Ágnes Szabados (Eötvös Loránd Tudományegyetem, Budapest) János Ángyán (Université de Lorraine, Nancy), advisor Sébastien Lebegue (Université de Lorraine, Nancy), co-advisor  Abstract  In this thesis are shown developments in the random phase approximation (RPA) in the context of range-separated theories.</description>
+    </item>
+    
+  </channel>
+</rss>

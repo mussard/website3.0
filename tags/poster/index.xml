@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poster on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/poster/</link>
+    <description>Recent content in Poster on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Range-Separated Random Phase Approximation : Recent Advances.</title>
+      <link>/norikcentaure/holder/master/talk/poster_201506/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/poster_201506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Shell Random Phase Approximation : Application to Atomisation Energies and Energy Barrier Heights.</title>
+      <link>/norikcentaure/holder/master/talk/poster_201407/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/poster_201407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients of Random Phase Approximation Correlation Energies in Range-Separated-Hybrid Context : Theory and Implementation.</title>
+      <link>/norikcentaure/holder/master/talk/poster_201308/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/poster_201308/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Forces for Random Phase Approximation using a Lagrangian Framework.</title>
+      <link>/norikcentaure/holder/master/talk/poster_201210/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/poster_201210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculation of the polarizability on a grid.</title>
+      <link>/norikcentaure/holder/master/talk/poster_201110/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/poster_201110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Calculation of Polarizability and Energies.</title>
+      <link>/norikcentaure/holder/master/talk/poster_201104/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/poster_201104/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

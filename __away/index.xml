@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__aways on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/__away/</link>
+    <description>Recent content in __aways on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/__away/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/norikcentaure/holder/master/__away/about/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/__away/about/</guid>
+      <description>My research consists in developments in electronic structure of molecular and solid systems. There are two fundamental aspects to my work. On the one hand, my approach is analytic and theoretical and consists in developing new methods and approximations. On the other hand, an integral part of my work is technical and is about implementing these developments in widely used quantum chemistry packages.  My work has branched into three main parts: I have been focused in the description of London dispersion forces in Density Functional Theory (DFT) in the context of range-separated theories coupled with the Random Phase Approximation (RPA).</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/norikcentaure/holder/master/__away/cv/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/__away/cv/</guid>
+      <description>CV in english:&amp;nbsp;  
+CV en français:&amp;nbsp;   
+(Last modified 2017.10.30)   The CVs are composed of the recall of my background that can be found below, as well as a list of publications and main oral communications, and a short description of my main research interests.  
+  Post-doctoral Research Assistant in Sandeep Sharma&#39;s group Department of Chemistry and Biochemistry link University of Colorado at Boulder link     Collaboration and Visit with Cyrus Umrigar Laboratory of Atomic and Solid State Physics link Cornell University link     Post-doctoral Research Assistant (Research Engineer) with Julien Toulouse Institut des Sciences du Calcul et des Données link Laboratoire de Chimie Théorique link Université Pierre et Marie Curie link     PhD Advisor: János Ángyán Crystallography, Nuclear Magnetic Resonance and Modelling link Université de Lorraine link     Master of Analytical, Physical and Theoretical Chemistry École Normale Supérieure link Université Pierre et Marie Curie link</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/norikcentaure/holder/master/__away/cv_bis/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/__away/cv_bis/</guid>
+      <description>&amp;nbsp; CV in english:&amp;nbsp;  &amp;nbsp;  &amp;nbsp; CV en français:&amp;nbsp;  &amp;nbsp;  
+(Last modified 2017.10.30)   The CVs are composed of the recall of my background that can be found below, as well as a list of publications and main oral communications, and a short description of my main research interests. 
+  Post-doctoral Research Assistant in Sandeep Sharma&#39;s group Department of Chemistry and Biochemistry link University of Colorado at Boulder link     Collaboration and Visit with Cyrus Umrigar Laboratory of Atomic and Solid State Physics link Cornell University link     Post-doctoral Research Assistant (Research Engineer) with Julien Toulouse Institut des Sciences du Calcul et des Données link Laboratoire de Chimie Théorique link Université Pierre et Marie Curie link     PhD Advisor: János Ángyán Crystallography, Nuclear Magnetic Resonance and Modelling link Université de Lorraine link     Master of Analytical, Physical and Theoretical Chemistry École Normale Supérieure link Université Pierre et Marie Curie link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/norikcentaure/holder/master/__away/contact/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/__away/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/norikcentaure/holder/master/__away/aboutme/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/__away/aboutme/</guid>
+      <description>My research consists in developments in electronic structure of molecular and solid systems. There are two fundamental aspects to my work. On the one hand, my approach is analytic and theoretical and consists in developing new methods and approximations. On the other hand, an integral part of my work is technical and is about implementing these developments in widely used quantum chemistry packages.  My work has branched into three main parts: I have been focused in the description of London dispersion forces in Density Functional Theory (DFT) in the context of range-separated theories coupled with the Random Phase Approximation (RPA).</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/norikcentaure/holder/master/__away/aboutme/aboutme/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/__away/aboutme/aboutme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

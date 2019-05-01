@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/project/</link>
+    <description>Recent content in Projects on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-reference Perturbation Theory</title>
+      <link>/norikcentaure/holder/master/project/mrpt/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/mrpt/</guid>
+      <description>+++</description>
+    </item>
+    
+    <item>
+      <title>Spin-orbit coupling</title>
+      <link>/norikcentaure/holder/master/project/soc/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat-bath Configuration Interaction</title>
+      <link>/norikcentaure/holder/master/project/hciscf/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/hciscf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear-response VMC</title>
+      <link>/norikcentaure/holder/master/project/lrvmc/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/lrvmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of determinant in QMC</title>
+      <link>/norikcentaure/holder/master/project/detqmc/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/detqmc/</guid>
+      <description>+++ +++</description>
+    </item>
+    
+    <item>
+      <title>Fractional occupation numbers</title>
+      <link>/norikcentaure/holder/master/project/fracocc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/fracocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OEP Double-hybrid</title>
+      <link>/norikcentaure/holder/master/project/oep/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/oep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-harmonic generation spectra</title>
+      <link>/norikcentaure/holder/master/project/hhg/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/hhg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA formalisms</title>
+      <link>/norikcentaure/holder/master/project/diel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/diel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pOO: Local orbitals</title>
+      <link>/norikcentaure/holder/master/project/poo/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/poo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-unrestricted generalisation</title>
+      <link>/norikcentaure/holder/master/project/urpa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/urpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basis convergence</title>
+      <link>/norikcentaure/holder/master/project/convbasis/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/convbasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct space</title>
+      <link>/norikcentaure/holder/master/project/direct/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradients of the RPA correlation energy</title>
+      <link>/norikcentaure/holder/master/project/grad/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/grad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected excitations in localized orbitals</title>
+      <link>/norikcentaure/holder/master/project/locexc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/locexc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

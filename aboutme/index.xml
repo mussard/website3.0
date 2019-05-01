@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aboutmes on Bastien Mussard</title>
+    <link>https://mussard.github.io/aboutme/</link>
+    <description>Recent content in Aboutmes on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/aboutme/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>https://mussard.github.io/aboutme/aboutme/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mussard.github.io/aboutme/aboutme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

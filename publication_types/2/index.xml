@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/publication_types/2/</link>
+    <description>Recent content in 2 on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Random phase approximation in projected oscillator orbitals</title>
+      <link>/norikcentaure/holder/master/publication/mus-tca-2018/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/mus-tca-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces</title>
+      <link>/norikcentaure/holder/master/publication/mussha-jctc-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/mussha-jctc-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheap and near exact CASSCF with large active spaces</title>
+      <link>/norikcentaure/holder/master/publication/smimusholsha-jctc-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/smimusholsha-jctc-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent linear-response variational Monte Carlo.</title>
+      <link>/norikcentaure/holder/master/publication/muscocassottumrtou-aqc-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/muscocassottumrtou-aqc-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractional-charge and fractional-spin errors in range-separated density-functional theory.</title>
+      <link>/norikcentaure/holder/master/publication/mustou-mp-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/mustou-mp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent double-hybrid density-functional theory using the optimized-effective-potential method.</title>
+      <link>/norikcentaure/holder/master/publication/smiframusbukgraluptou-jcp-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/smiframusbukgraluptou-jcp-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian continuum basis functions for calculating high-harmonic generation spectra.</title>
+      <link>/norikcentaure/holder/master/publication/cocmuslabcaitaitoulup-ijqc-2016/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/cocmuslabcaitaitoulup-ijqc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dielectric matrix formulation of correlation energies in the Random Phase Approximation (RPA): inclusion of exchange effects.</title>
+      <link>/norikcentaure/holder/master/publication/musrocjanang-jctc-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/musrocjanang-jctc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Random Phase Approximation with Projected Oscillator Orbitals.</title>
+      <link>/norikcentaure/holder/master/publication/musang-tca-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/musang-tca-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-unrestricted random-phase approximation with range separation: Benchmark on atomisation energies and energy barrier heights.</title>
+      <link>/norikcentaure/holder/master/publication/musreiangtou-jcp-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/musreiangtou-jcp-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basis convergence of range-separated density-functional theory.</title>
+      <link>/norikcentaure/holder/master/publication/framusluptou-jcp-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/framusluptou-jcp-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships between charge density response functions, exchange holes and localized orbitals.</title>
+      <link>/norikcentaure/holder/master/publication/musang-ctc-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/musang-ctc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Energy Gradients in Range-Separated Hybrid Density Functional Theory with Random Phase Approximation.</title>
+      <link>/norikcentaure/holder/master/publication/musszaang-jctc-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/musszaang-jctc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-range DFT combined with long-range local RPA within a range-separated hybrid DFT framework.</title>
+      <link>/norikcentaure/holder/master/publication/chemusangrei-cpl-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/chemusangrei-cpl-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrostatic Potential Derived Atomic Charges for Periodic Systems Using a Modified Error Functional: REPEAT Charges.</title>
+      <link>/norikcentaure/holder/master/publication/cammuswoo-jctc-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/publication/cammuswoo-jctc-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/</link>
+    <description>Recent content in Tags on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Tue, 01 Jan 1901 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Champ</title>
+      <link>/norikcentaure/holder/master/tags/champ/</link>
+      <pubDate>Tue, 01 Jan 1901 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/champ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dice</title>
+      <link>/norikcentaure/holder/master/tags/dice/</link>
+      <pubDate>Thu, 01 Jan 1903 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/dice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>/norikcentaure/holder/master/tags/misc/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molpro</title>
+      <link>/norikcentaure/holder/master/tags/molpro/</link>
+      <pubDate>Fri, 01 Jan 1904 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/molpro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mrpt</title>
+      <link>/norikcentaure/holder/master/tags/mrpt/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/mrpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note</title>
+      <link>/norikcentaure/holder/master/tags/note/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster</title>
+      <link>/norikcentaure/holder/master/tags/poster/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyscf</title>
+      <link>/norikcentaure/holder/master/tags/pyscf/</link>
+      <pubDate>Wed, 01 Jan 1902 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/pyscf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qmc</title>
+      <link>/norikcentaure/holder/master/tags/qmc/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/qmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rpa</title>
+      <link>/norikcentaure/holder/master/tags/rpa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rsh</title>
+      <link>/norikcentaure/holder/master/tags/rsh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/rsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>/norikcentaure/holder/master/tags/talk/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>/norikcentaure/holder/master/tags/thesis/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/tags/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mrpt on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/mrpt/</link>
+    <description>Recent content in Mrpt on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/mrpt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-reference Perturbation Theory</title>
+      <link>/norikcentaure/holder/master/project/mrpt/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/mrpt/</guid>
+      <description>+++</description>
+    </item>
+    
+    <item>
+      <title>Spin-orbit coupling</title>
+      <link>/norikcentaure/holder/master/project/soc/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat-bath Configuration Interaction</title>
+      <link>/norikcentaure/holder/master/project/hciscf/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/hciscf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

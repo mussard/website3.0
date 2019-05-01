@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/talk/</link>
+    <description>Recent content in Talk on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A pedagogical introduction to the “SHCI” algorithm</title>
+      <link>/norikcentaure/holder/master/talk/talk_20181029/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_20181029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New applications for the “SHCI” algorithm</title>
+      <link>/norikcentaure/holder/master/talk/talk_201810/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201810/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-step treatment of spin-orbit coupling and electron correlation in large active spaces.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201711/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201711/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheap and near exact calculations with large active spaces.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201710/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent linear-response variational Monte Carlo.</title>
+      <link>/norikcentaure/holder/master/talk/talk_20170721/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_20170721/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multireference Perturbation Theory using extended active space wavefunctions.</title>
+      <link>/norikcentaure/holder/master/talk/talk_20170704/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_20170704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multireference Perturbation Theory.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201704/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractional-charge and Fractional-spin errors in Range-Separated Density-Functional Theory with Random Phase Approximation.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201605/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Phase Approximation with Fractional Charge and Fractional Spin.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201604/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201604/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Electronic Structure Theory.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201603/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Electronic Structure Theory.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201509/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Range-Separated Random Phase Approximations.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201507/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Range-Separated Random Phase Approximations.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201504/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOLPRO: overview and challenges.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201503/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractional Occupation Numbers : Early Thoughts.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201501/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dielectric matrix formulation of correlation energies in the Random Phase Approximation (RPA) : inclusion of exchange effects.</title>
+      <link>/norikcentaure/holder/master/talk/talk_2014b/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_2014b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on Quantum Chemistry.</title>
+      <link>/norikcentaure/holder/master/talk/talk_2014a/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_2014a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients of Random Phase Approximation correlation energies in a Range-Separated-Hybrid context : Theory and implementation.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201311/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201311/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradients for the Range-Separated Random Phase Approximation Correlation Energies Using a Lagrangian Framework.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201306/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Gradient for Random Phase Approximation Using a Lagrangian Framework.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201211/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201211/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA step by step.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201204/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcul de la fonction de réponse linéaire sur une grille spatiale.</title>
+      <link>/norikcentaure/holder/master/talk/talk_201111/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/talk_201111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation et test de fonctions d&#39;onde Valence Bond pour les calculs Monte Carlo Quantique.</title>
+      <link>/norikcentaure/holder/master/talk/defence_m2/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/talk/defence_m2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

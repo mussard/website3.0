@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rpa on Bastien Mussard</title>
+    <link>/norikcentaure/holder/master/tags/rpa/</link>
+    <description>Recent content in Rpa on Bastien Mussard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Bastien Mussard</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/norikcentaure/holder/master/tags/rpa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fractional occupation numbers</title>
+      <link>/norikcentaure/holder/master/project/fracocc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/fracocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA formalisms</title>
+      <link>/norikcentaure/holder/master/project/diel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/diel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-unrestricted generalisation</title>
+      <link>/norikcentaure/holder/master/project/urpa/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/urpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradients of the RPA correlation energy</title>
+      <link>/norikcentaure/holder/master/project/grad/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/grad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected excitations in localized orbitals</title>
+      <link>/norikcentaure/holder/master/project/locexc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/norikcentaure/holder/master/project/locexc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
